@@ -5,7 +5,7 @@
   "description": "Tracks published by grandtour.fyi",
   "source": {
     "repo": "gtfyi/grandtour",
-    "commit": "27ebec7af62939a014dcd07e2d24322a00f96322"
+    "commit": "fab3c26ba0dfd366921969956800e4b955c781e1"
   },
   "tracks": [
     {
@@ -27,8 +27,8 @@
       "areas": [
         "dres"
       ],
-      "hash": "fcad3f27c26268c5fddf76fe55d9bfeabdef60c16f68e79e69933d9ae6ba6d0b",
-      "bytes": 2994560,
+      "hash": "10dbd465daec54a8bacd03b1070a2fcaf7a75c2272b90fd20ff0b34a4c57c275",
+      "bytes": 132013,
       "createdAt": "2026-09-18T23:37:29.330Z"
     },
     {
@@ -50,8 +50,8 @@
       "areas": [
         "9w2m"
       ],
-      "hash": "7fd034e7e5a2b38a69a3ee1af7edfa6a04d15d0b0db96402b46fcc4c92d9b049",
-      "bytes": 1985725,
+      "hash": "cff8ec322b2922a4450a4d4e4f8100bc63cbd1b71b17351d6ff60aa8515b8567",
+      "bytes": 92106,
       "createdAt": "2026-09-18T23:37:29.086Z"
     },
     {
@@ -79,8 +79,8 @@
         "c2xk",
         "c2xm"
       ],
-      "hash": "c38c9434e3e878b500b468c471f4780733ffef52f6e685aba98d5b7f9c88e871",
-      "bytes": 4299747,
+      "hash": "e56c79235e814de423cee85ac441be580258bd657292949b9ec4922f5bf86c8d",
+      "bytes": 250481,
       "createdAt": "2026-09-08T15:39:57.006Z"
     },
     {
@@ -108,8 +108,8 @@
         "9qb8",
         "9qbb"
       ],
-      "hash": "4db1e21623b7e0dcb708126729197c5e310e7943f5632ecb30a9b180bfebb136",
-      "bytes": 28316073,
+      "hash": "d26bef6d071fb0e21f11e0a952290489de5843580ed7bc4b9ebb86293b02ff84",
+      "bytes": 2389312,
       "createdAt": "2026-06-28T18:52:44.882Z"
     },
     {
@@ -131,8 +131,8 @@
       "areas": [
         "dnh0"
       ],
-      "hash": "706fb58d2b97bf9f3c1ac779a87d08690f8fde636f44bb3a85567e734789ae51",
-      "bytes": 912559,
+      "hash": "a5d91660fbfb86f4c17c3954c33ccca4400ca8754783a59d33e8bd245e2405e4",
+      "bytes": 68346,
       "createdAt": "2026-09-18T23:37:28.524Z"
     },
     {
@@ -159,8 +159,8 @@
         "9qb8",
         "9qbb"
       ],
-      "hash": "c5f64cc5c4456a3761a7d6c612fcbaaafb67a3b7f011d9f4c84aec56968290d5",
-      "bytes": 3344425,
+      "hash": "181efe027208f2f3dd9e38896d415eb246d86cb5765b0f8c5ee4d7b2d117573a",
+      "bytes": 484435,
       "createdAt": "2026-09-18T15:46:47.804Z"
     },
     {
@@ -189,8 +189,8 @@
         "9qb9",
         "9qbb"
       ],
-      "hash": "08481358ca1cc58f80178f50a132816053fac1e48fe4ab217397551c29583b06",
-      "bytes": 11758539,
+      "hash": "785ed4de87658721d5e6bbedffb211547c4592f15b0f45606c79e24653d8101b",
+      "bytes": 1084547,
       "createdAt": "2026-09-18T15:46:47.804Z"
     },
     {
@@ -212,8 +212,8 @@
       "areas": [
         "8e91"
       ],
-      "hash": "e17fa37d460f96c34fa177751015c0878084692ceda7f2c8db09549117f46034",
-      "bytes": 2392808,
+      "hash": "8a176e3c1866bfcf73c68ab208b82ca446ec6320a9e83b8f823d561a2f1cffbd",
+      "bytes": 97845,
       "createdAt": "2026-09-18T23:37:27.246Z"
     },
     {
@@ -239,8 +239,8 @@
         "9q8z",
         "9qbb"
       ],
-      "hash": "7fddc765119da2046e2e857b31606f3a2316e1d3a3406af513bef67a689c11e9",
-      "bytes": 4308387,
+      "hash": "ddc8fe12f84c670de865b19b2be6b182218293d5dd46df3eaccb75a8e7013559",
+      "bytes": 351494,
       "createdAt": "2026-09-18T15:46:47.804Z"
     },
     {
@@ -267,8 +267,8 @@
         "9qb8",
         "9qbb"
       ],
-      "hash": "dedc781211b460527fee63f456c9a15a81d76b6e8f5f49c06472cf7d42f91333",
-      "bytes": 4324888,
+      "hash": "bc3c2713f37902152983a395eab64d67235b1895dd5a5c638574ea76e0849eed",
+      "bytes": 377773,
       "createdAt": "2026-09-18T15:46:47.804Z"
     },
     {
@@ -291,8 +291,8 @@
         "c236",
         "c23d"
       ],
-      "hash": "5478da45aeb970a37d190725cbc7ba022a3e2b62bcb0a8b86bb44164ac8ba02c",
-      "bytes": 1227639,
+      "hash": "e570f357e41ff04d230086a3b2497a96f9d08b14a3f5fbffcc4200a134d27e50",
+      "bytes": 59842,
       "createdAt": "2026-09-18T23:37:27.937Z"
     },
     {
@@ -316,8 +316,8 @@
         "cbtu",
         "cbw5"
       ],
-      "hash": "fa540b7140b657b179041b4b4ef5d164dc7daa0ec0be2890fd89580cdbc4f859",
-      "bytes": 3175140,
+      "hash": "0662f633ecbba8678f7f2fc87e6e452dfcfc55c5fa3e477704607ca71170cb18",
+      "bytes": 133397,
       "createdAt": "2026-09-18T23:37:28.222Z"
     }
   ]
