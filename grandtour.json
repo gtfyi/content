@@ -1,0 +1,324 @@
+{
+  "formatVersion": 1,
+  "generatedAt": "2026-09-20T07:18:21.156Z",
+  "name": "GrandTour",
+  "description": "Tracks published by grandtour.fyi",
+  "source": {
+    "repo": "gtfyi/grandtour",
+    "commit": "27ebec7af62939a014dcd07e2d24322a00f96322"
+  },
+  "tracks": [
+    {
+      "id": "be7e7225-b6b6-4583-8bba-6915f361f1d0",
+      "slug": "saratoga-battlefield-road",
+      "name": "Battlefield Road Audio Tour",
+      "description": "A driving tour of Saratoga National Historical Park's Battlefield Road, narrated by NPS. Public domain (17 U.S.C. §105, U.S. federal government work).",
+      "lifecycle": "evergreen",
+      "official": true,
+      "url": "tours/saratoga-battlefield-road.grandtour.json",
+      "spotCount": 11,
+      "voicedCount": 11,
+      "minutes": 0,
+      "center": {
+        "lat": 43.00020452727272,
+        "lng": -73.63404346363636
+      },
+      "spanKm": 5.9,
+      "areas": [
+        "dres"
+      ],
+      "hash": "fcad3f27c26268c5fddf76fe55d9bfeabdef60c16f68e79e69933d9ae6ba6d0b",
+      "bytes": 2994560,
+      "createdAt": "2026-09-18T23:37:29.330Z"
+    },
+    {
+      "id": "56427339-1975-4287-9e71-9dcc480e1c8b",
+      "slug": "grand-canyon-full-steam-ahead",
+      "name": "Full Steam Ahead: A Historic Village Tour",
+      "description": "A walking tour of Grand Canyon Village's historic district, narrated by Grand Canyon National Park (NPS). Public domain.",
+      "lifecycle": "evergreen",
+      "official": true,
+      "url": "tours/grand-canyon-full-steam-ahead.grandtour.json",
+      "spotCount": 9,
+      "voicedCount": 9,
+      "minutes": 0,
+      "center": {
+        "lat": 36.05752388888889,
+        "lng": -112.14014377777777
+      },
+      "spanKm": 0.7,
+      "areas": [
+        "9w2m"
+      ],
+      "hash": "7fd034e7e5a2b38a69a3ee1af7edfa6a04d15d0b0db96402b46fcc4c92d9b049",
+      "bytes": 1985725,
+      "createdAt": "2026-09-18T23:37:29.086Z"
+    },
+    {
+      "id": "e02ab6f5-88db-47b2-b7a2-5f2ccea67b78",
+      "slug": "going-to-the-sun-road-audio-tour",
+      "name": "Going-to-the-Sun Road Audio Tour",
+      "description": "The National Park Service’s 25-stop narrated drive from Apgar Village to the Saint Mary Visitor Center across Glacier National Park. Original NPS audio and transcripts; GPS triggers verified against the mapped road and named landmarks.",
+      "color": "#4E6A55",
+      "icon": "mountain.2",
+      "lifecycle": "evergreen",
+      "official": true,
+      "url": "tours/going-to-the-sun-road-audio-tour.grandtour.json",
+      "spotCount": 25,
+      "voicedCount": 25,
+      "minutes": 48.8,
+      "center": {
+        "lat": 48.68549364373146,
+        "lng": -113.70367859612918
+      },
+      "spanKm": 55.4,
+      "areas": [
+        "c2wu",
+        "c2xh",
+        "c2xj",
+        "c2xk",
+        "c2xm"
+      ],
+      "hash": "c38c9434e3e878b500b468c471f4780733ffef52f6e685aba98d5b7f9c88e871",
+      "bytes": 4299747,
+      "createdAt": "2026-09-08T15:39:57.006Z"
+    },
+    {
+      "id": "0362e5cc-93c1-419d-8b80-8e7e01da4de0",
+      "slug": "history",
+      "name": "History & Geography",
+      "description": "Stories of what happened here, and how the land came to be.",
+      "color": "#8B5E3C",
+      "icon": "building.columns",
+      "lifecycle": "evergreen",
+      "official": true,
+      "url": "tours/history.grandtour.json",
+      "spotCount": 273,
+      "voicedCount": 273,
+      "minutes": 316.9,
+      "center": {
+        "lat": 37.98356373327106,
+        "lng": -122.62411672408055
+      },
+      "spanKm": 66.4,
+      "areas": [
+        "9q8x",
+        "9q8z",
+        "9q9p",
+        "9qb8",
+        "9qbb"
+      ],
+      "hash": "4db1e21623b7e0dcb708126729197c5e310e7943f5632ecb30a9b180bfebb136",
+      "bytes": 28316073,
+      "createdAt": "2026-06-28T18:52:44.882Z"
+    },
+    {
+      "id": "3a777e9d-759a-4c45-8fd7-af678b3215af",
+      "slug": "mlk-birth-home-virtual-tour",
+      "name": "MLK Birth Home Virtual Tour",
+      "description": "A room-by-room tour of the King family's birth home at 501 Auburn Avenue, narrated by NPS. Public domain.",
+      "lifecycle": "evergreen",
+      "official": true,
+      "url": "tours/mlk-birth-home-virtual-tour.grandtour.json",
+      "spotCount": 17,
+      "voicedCount": 17,
+      "minutes": 0,
+      "center": {
+        "lat": 33.75521482352943,
+        "lng": -84.37133994117646
+      },
+      "spanKm": 0.5,
+      "areas": [
+        "dnh0"
+      ],
+      "hash": "706fb58d2b97bf9f3c1ac779a87d08690f8fde636f44bb3a85567e734789ae51",
+      "bytes": 912559,
+      "createdAt": "2026-09-18T23:37:28.524Z"
+    },
+    {
+      "id": "75b96f3f-a43d-429e-8efb-e8120ed5322d",
+      "slug": "news",
+      "name": "News",
+      "description": "What's happening right now.",
+      "color": "#52525B",
+      "icon": "newspaper.fill",
+      "lifecycle": "evergreen",
+      "official": true,
+      "url": "tours/news.grandtour.json",
+      "spotCount": 32,
+      "voicedCount": 32,
+      "minutes": 32.2,
+      "center": {
+        "lat": 38.000052319093754,
+        "lng": -122.70275384462501
+      },
+      "spanKm": 40.4,
+      "areas": [
+        "9q8x",
+        "9q8z",
+        "9qb8",
+        "9qbb"
+      ],
+      "hash": "c5f64cc5c4456a3761a7d6c612fcbaaafb67a3b7f011d9f4c84aec56968290d5",
+      "bytes": 3344425,
+      "createdAt": "2026-09-18T15:46:47.804Z"
+    },
+    {
+      "id": "9b540342-364f-47c8-9bbe-d6ae937859af",
+      "slug": "parks-and-trails",
+      "name": "Parks and Trails",
+      "description": "Trails, parks, and the natural landscape.",
+      "color": "#4C7A3D",
+      "icon": "figure.hiking",
+      "lifecycle": "evergreen",
+      "official": true,
+      "url": "tours/parks-and-trails.grandtour.json",
+      "spotCount": 132,
+      "voicedCount": 132,
+      "minutes": 129.5,
+      "center": {
+        "lat": 37.964069331636416,
+        "lng": -122.64283679688629
+      },
+      "spanKm": 62.8,
+      "areas": [
+        "9q8x",
+        "9q8z",
+        "9q9p",
+        "9qb8",
+        "9qb9",
+        "9qbb"
+      ],
+      "hash": "08481358ca1cc58f80178f50a132816053fac1e48fe4ab217397551c29583b06",
+      "bytes": 11758539,
+      "createdAt": "2026-09-18T15:46:47.804Z"
+    },
+    {
+      "id": "4f84357a-d1d3-4c2b-9877-a7b972cb5a1a",
+      "slug": "puukohola-heiau-park-audio-tour",
+      "name": "Puʻukoholā Heiau Park Audio Tour",
+      "description": "A 30-minute self-guided walking tour of Puʻukoholā Heiau National Historic Site, narrated by NPS. Covers the Heiau, Mailekini Heiau, Hale o Kapuni, the John Young Homestead, Pelekane, and the Ala Kahakai coastal trail. Public domain.",
+      "lifecycle": "evergreen",
+      "official": true,
+      "url": "tours/puukohola-heiau-park-audio-tour.grandtour.json",
+      "spotCount": 6,
+      "voicedCount": 6,
+      "minutes": 0,
+      "center": {
+        "lat": 20.027949000000003,
+        "lng": -155.81980616666667
+      },
+      "spanKm": 0.7,
+      "areas": [
+        "8e91"
+      ],
+      "hash": "e17fa37d460f96c34fa177751015c0878084692ceda7f2c8db09549117f46034",
+      "bytes": 2392808,
+      "createdAt": "2026-09-18T23:37:27.246Z"
+    },
+    {
+      "id": "dde740bc-c1c6-40b8-b8f5-5bb51717aa41",
+      "slug": "real-estate",
+      "name": "Real Estate",
+      "description": "Homes and properties with a story.",
+      "color": "#3D5A80",
+      "icon": "house.fill",
+      "lifecycle": "evergreen",
+      "official": true,
+      "url": "tours/real-estate.grandtour.json",
+      "spotCount": 43,
+      "voicedCount": 43,
+      "minutes": 49.3,
+      "center": {
+        "lat": 37.97233986893023,
+        "lng": -122.61605343316279
+      },
+      "spanKm": 30.5,
+      "areas": [
+        "9q8x",
+        "9q8z",
+        "9qbb"
+      ],
+      "hash": "7fddc765119da2046e2e857b31606f3a2316e1d3a3406af513bef67a689c11e9",
+      "bytes": 4308387,
+      "createdAt": "2026-09-18T15:46:47.804Z"
+    },
+    {
+      "id": "bb2451f5-b0f5-4a2c-89c9-06405e584a61",
+      "slug": "shops-and-restaurants",
+      "name": "Shops and Restaurants",
+      "description": "Local businesses worth a stop.",
+      "color": "#b0532f",
+      "icon": "storefront",
+      "lifecycle": "evergreen",
+      "official": true,
+      "url": "tours/shops-and-restaurants.grandtour.json",
+      "spotCount": 70,
+      "voicedCount": 70,
+      "minutes": 48.1,
+      "center": {
+        "lat": 37.98337503632857,
+        "lng": -122.60489201138573
+      },
+      "spanKm": 63.9,
+      "areas": [
+        "9q8z",
+        "9q9p",
+        "9qb8",
+        "9qbb"
+      ],
+      "hash": "dedc781211b460527fee63f456c9a15a81d76b6e8f5f49c06472cf7d42f91333",
+      "bytes": 4324888,
+      "createdAt": "2026-09-18T15:46:47.804Z"
+    },
+    {
+      "id": "c4057f37-92f8-4305-963f-471044533fe4",
+      "slug": "mount-rainier-sunrise-geology",
+      "name": "Sunrise Geology Audio Tour",
+      "description": "A two-part driving-and-walking tour of the White River to Sunrise corridor at Mount Rainier National Park, narrated by NPS with USGS hydrologist Carolyn Driedger. Public domain (17 U.S.C. §105, U.S. federal government work).",
+      "lifecycle": "evergreen",
+      "official": true,
+      "url": "tours/mount-rainier-sunrise-geology.grandtour.json",
+      "spotCount": 8,
+      "voicedCount": 8,
+      "minutes": 0,
+      "center": {
+        "lat": 46.910122225,
+        "lng": -121.629870475
+      },
+      "spanKm": 6.7,
+      "areas": [
+        "c236",
+        "c23d"
+      ],
+      "hash": "5478da45aeb970a37d190725cbc7ba022a3e2b62bcb0a8b86bb44164ac8ba02c",
+      "bytes": 1227639,
+      "createdAt": "2026-09-18T23:37:27.937Z"
+    },
+    {
+      "id": "3959c3f9-f66b-4df3-a81d-6f9e634c2659",
+      "slug": "voyageurs-podcast-presentations",
+      "name": "Voyageurs Podcast Presentations",
+      "description": "Narrated visits to five boat-access-only destinations within Voyageurs National Park, by NPS. Public domain.",
+      "lifecycle": "evergreen",
+      "official": true,
+      "url": "tours/voyageurs-podcast-presentations.grandtour.json",
+      "spotCount": 5,
+      "voicedCount": 5,
+      "minutes": 0,
+      "center": {
+        "lat": 48.5021972,
+        "lng": -92.8115588
+      },
+      "spanKm": 39.3,
+      "areas": [
+        "cbtg",
+        "cbtu",
+        "cbw5"
+      ],
+      "hash": "fa540b7140b657b179041b4b4ef5d164dc7daa0ec0be2890fd89580cdbc4f859",
+      "bytes": 3175140,
+      "createdAt": "2026-09-18T23:37:28.222Z"
+    }
+  ]
+}
