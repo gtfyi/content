@@ -1,6 +1,6 @@
 {
   "formatVersion": 1,
-  "generatedAt": "2026-09-20T07:18:21.156Z",
+  "generatedAt": "2026-09-21T06:22:04.026Z",
   "name": "GrandTour",
   "description": "Tracks published by grandtour.fyi",
   "source": {
@@ -18,7 +18,7 @@
       "url": "tours/saratoga-battlefield-road.grandtour.json",
       "spotCount": 11,
       "voicedCount": 11,
-      "minutes": 0,
+      "minutes": 34.2,
       "center": {
         "lat": 43.00020452727272,
         "lng": -73.63404346363636
@@ -27,8 +27,8 @@
       "areas": [
         "dres"
       ],
-      "hash": "10dbd465daec54a8bacd03b1070a2fcaf7a75c2272b90fd20ff0b34a4c57c275",
-      "bytes": 132013,
+      "hash": "5c377b6545b5f6706052cd784f8bd03ee2b387c9706d2a04dedfa1256ef23a1a",
+      "bytes": 135678,
       "createdAt": "2026-09-18T23:37:29.330Z"
     },
     {
